@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Error from "./error";
-
+// asdalskdjlas
 function Buscador({ guardarPersonaje }) {
   const [nombrePersonaje, guardarNombrePersonaje] = useState("");
   const [error, guardarError] = useState(false);
